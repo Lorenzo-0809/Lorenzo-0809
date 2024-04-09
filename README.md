@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Lorenzo-0809
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bonjour je suis en étudiant en seconde
+
+- *Lycée :* **Edouard Branly à Châtellerault**
+- *Activitée :* **Jeune Sapeur Pompier à Châtellerault**
+- *Sport :* **Handball  [fédération de handball](https://www.ffhandball.fr/competitions/saison-2023-2024-19/departemental/)**
+
+
+
+
 
 <!---
 Lorenzo-0809/Lorenzo-0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
